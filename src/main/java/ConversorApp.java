@@ -8,7 +8,7 @@ import org.json.JSONObject;
 public class ConversorApp {
 
     // Reemplaza con tu propia API Key de Exchange Rate
-    private static final String API_KEY = "3b77820bdfcf2ad5292b5038";
+    private static final String API_KEY = "API_KEY";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
